@@ -1,0 +1,15 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace AmbulanceService.Models
+{
+    public class Hospital
+    {
+        [Key]
+        public int Hid { get; set; }
+
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string Location { get; set; }
+        public string Phone { get; set; }
+    }
+}

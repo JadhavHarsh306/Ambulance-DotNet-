@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\controllers\\hospitalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\dto\\hosptialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\dto\\hosptialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\dto\\updatedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\dto\\updatedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\dto\\driverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Project/True/SqlTable/dbo.admins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|d:\\cdac-ambulance_service(dotnet)\\back-end\\project\\ambulanceservice\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28F1A27C-673A-4353-B783-42388E15BE9C}|AmbulanceService\\AmbulanceService.csproj|solutionrelative:ambulanceservice\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HospitalsController.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\HospitalsController.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\Controllers\\HospitalsController.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\HospitalsController.cs",
+              "RelativeToolTip": "AmbulanceService\\Controllers\\HospitalsController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:16:06.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HosptialDTO.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\HosptialDTO.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\DTO\\HosptialDTO.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\HosptialDTO.cs",
+              "RelativeToolTip": "AmbulanceService\\DTO\\HosptialDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:15:10.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\Controllers\\AdminsController.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "AmbulanceService\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:11:47.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "updateDriver.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\updateDriver.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\DTO\\updateDriver.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\updateDriver.cs",
+              "RelativeToolTip": "AmbulanceService\\DTO\\updateDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:09:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DriverDTO.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\DriverDTO.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\DTO\\DriverDTO.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\DriverDTO.cs",
+              "RelativeToolTip": "AmbulanceService\\DTO\\DriverDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:04:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\DTO\\LoginRequest.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "AmbulanceService\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:57:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AmbulanceService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAqwJsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T13:47:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "AmbulanceService\\Controllers\\DriversController.cs",
+              "ToolTip": "D:\\CDAC-Ambulance_Service(DotNet)\\Back-end\\project\\AmbulanceService\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "AmbulanceService\\Controllers\\DriversController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAYwJYAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:40:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.admins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/Project/True/SqlTable/dbo.admins.sql",
+              "ToolTip": "dbo.admins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-08T13:59:56.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
